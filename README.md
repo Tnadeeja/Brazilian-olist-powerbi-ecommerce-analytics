@@ -36,4 +36,9 @@ The dataset contains multiple CSV files related to Brazilian e-commerce orders, 
 
 ## Project Status
 
-Part 01: Project setup and business requirement documentation is in progress.
+- Part 01: Project setup and business requirement documentation completed
+- Part 02: Dataset understanding completed
+- Part 03: Data profiling and Power Query cleaning completed
+- Part 04: Fact and dimension table design completed
+- Part 05: Power BI model relationships completed
+- Next: DAX measures and KPI creation
